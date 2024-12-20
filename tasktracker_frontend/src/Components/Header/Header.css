@@ -1,0 +1,16 @@
+.logo{
+    height: 50px;
+    width: 80px;
+}
+.navbar{
+    background-color: #f9b145;
+}
+.navbrands{
+    color: #2c0467;
+}
+.navitem{
+    color: #2c0467;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+}
