@@ -1,0 +1,14 @@
+#Django related
+*.pyc
+__pycache__/
+.env
+
+#React-related
+node_modules/
+build/
+
+#General
+.DS_Store
+venv/
+db.sqlite3
+
